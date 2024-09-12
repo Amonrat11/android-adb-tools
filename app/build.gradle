@@ -10,7 +10,7 @@ android {
         applicationId 'ru.nikita.adb'
         minSdk 12
         targetSdk 33
-        versionCode 6
+        versionCode 7
         versionName '1.5.2'
     }
 
